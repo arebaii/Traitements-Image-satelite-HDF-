@@ -1,6 +1,6 @@
 
 # 1 # INSTALLER LA LIBRAIRIE GDAL SUR PYTHON AVEC ANACONDA 
-#Installations préalables:
+# Installations préalables:
 Installer Anaconda (https://www.anaconda.com/products/individual)
 IDE Python (exemple: Spyder, présent avec Anaconda)
 
