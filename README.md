@@ -5,15 +5,15 @@ Installer Anaconda (https://www.anaconda.com/products/individual)
 IDE Python (exemple: Spyder, présent avec Anaconda)
 
 1) Créer un nouvel environnement
-2) 
+
 -Ouvrir anaconda prompt, écrire:
 
 conda create --name NOM
 
 
- 2)Aller sur l'environnement créé, écrire:
+2) Aller sur l'environnement créé, écrire:
  
-conda activate NOM
+ conda activate NOM
 
 
 3) Installer les librairies, écrire: 
@@ -23,7 +23,7 @@ conda install -c conda-forge gdal
 
 
 # Tester l'instalation
- 1)Tester avec python, toujours sur Anaconda Prompt, écrire:
+ 1) Tester avec python, toujours sur Anaconda Prompt, écrire:
  
 python
 
